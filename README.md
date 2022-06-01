@@ -26,7 +26,7 @@ Requirement already satisfied: pip in f:\programs\python\python39\lib\site-packa
 
 C:\Users\Ra>pip3 install you-get
 
-可以自行在命令行键入 you-get后回车学习下载用法
+可以自行在命令行键入 you-get后回车 可以学习使用如何下载用法
 
 ## 在小公主要下载视频的文件夹，把这个20220531.py文件放入这个空白文件夹，右键选中它利用txt文档修改其中的第31行后保存
 
