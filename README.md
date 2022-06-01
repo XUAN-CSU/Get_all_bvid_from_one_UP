@@ -1,0 +1,2 @@
+# Get_all_bvid_from_one_UP
+获得B站一个up主的全部BV号
