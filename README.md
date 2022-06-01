@@ -14,7 +14,8 @@ Python 3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AM
 
 Type "help", "copyright", "credits" or "license" for more information.
 
-exit() >是退出python回到命令行
+exit() 
+> 是退出python回到命令行
 
 C:\Users\Ra>
 
