@@ -14,7 +14,7 @@ Python 3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AM
 
 Type "help", "copyright", "credits" or "license" for more information.
 
-exit() <!---是退出python回到命令行---> 
+exit() ~~是退出python回到命令行 ~~
 
 C:\Users\Ra>
 
@@ -30,7 +30,7 @@ C:\Users\Ra>pip3 install you-get
 
 ## 在小公主要下载视频的文件夹，把这个20220531.py文件放入这个空白文件夹，右键选中它利用txt文档修改其中的第31行后保存
 
-bilibili_user_id = [282170862] <!--- []中是up主的id 可以是多个人的id --->
+bilibili_user_id = [282170862] ~~[]中是up主的id 可以是多个人的id~~
 
 空白区域按住Shift + 右键点击空白处，选择 在此处打开Powershell窗口(S)
 
