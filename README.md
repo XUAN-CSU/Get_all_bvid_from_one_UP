@@ -17,15 +17,16 @@ Hello World!
 C:\Users\Ra>
 ```
 
-C:\Users\Ra>
-
-此时可以选择更新pip命令如下：C:\Users\Ra>python -m pip install --upgrade pip
-
+此时可以选择更新pip命令如下：
+```
+C:\Users\Ra>python -m pip install --upgrade pip
 Requirement already satisfied: pip in f:\programs\python\python39\lib\site-packages (22.1.2)
+```
 
 ## 安装you-get来根据BV号下载B站视频
-
+```
 C:\Users\Ra>pip3 install you-get
+```
 
 可以自行在命令行键入 you-get后回车 可以学习使用如何下载用法
 
@@ -36,7 +37,9 @@ bilibili_user_id = [282170862] >[]中是up主的id 可以是多个人的id用英
 空白区域按住Shift + 右键点击空白处，选择 在此处打开Powershell窗口(S)
 
 输入cmd 进入命令行
+```
 python ./2022051.py，过一会儿会在这个文件夹中出现对应uid的文档：UserID_282170862_20220601081957571.txt
+```
 
 然后就可以调用you-get 下载 具体命令如下 you-get -I ./UserID_282170862_20220601081957571.txt
 
